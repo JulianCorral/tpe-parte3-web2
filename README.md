@@ -183,4 +183,5 @@ El ENDPOINT es: ` http://localhost/tpe-parte3-web2/api `
 
 
 
+![DIAGRAMA BASE DE DATOS](https://github.com/user-attachments/assets/8017ab1e-3ad9-4d47-a085-9973a8a23cbb)
 
